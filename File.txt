@@ -1,0 +1,25 @@
+﻿<li>
+   <div class="left">
+      <div class="item-post-read">
+         <div class="item-post" >05 Mar 2018</div>
+      </div>
+      <div class="item-comments">
+         <a class="item-comments" href="/msauniversity/events/academic-events/msa-maze-challenge-ignite-your-mind-and-motivation#itemCommentsAnchor">
+         0 comment										</a>
+      </div>
+   </div>
+   <!--end left-->
+   <div class="right">
+      <a href="/msauniversity/events/academic-events/msa-maze-challenge-ignite-your-mind-and-motivation" >MSA Maze Challenge - Ignite your mind &amp; motivation</a>
+      <div class="item-desc">
+         <p>
+            <span style="color:#F67A3E; font-weight:bold;">On 15<sup>th</sup> March 2018 in Roman Theatre - From 9:00am - 3:00pm</span><br />
+            &nbsp;
+         </p>
+         <p style="font-size: 16px;">
+            In this competition the team of contestants design and build small robot to solve a maze in the shortest possible time ...
+         </p>
+      </div>
+   </div>
+   <!--end right-->
+</li>
